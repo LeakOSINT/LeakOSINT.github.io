@@ -1,3 +1,4 @@
-Sitemap: https://leakosint.org/sitemap.xml
 User-agent: *
-Allow: 
+Allow: /
+
+Sitemap: https://leakosint.org/sitemap.xml
